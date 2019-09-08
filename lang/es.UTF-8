@@ -1098,11 +1098,11 @@ theme_xhred_global_error_more_details_online=Note: Please read more about this e
 
 
 #19.33
-theme_xhred_filemanager_search_file_mask=File mask
-theme_xhred_filemanager_search_regex=Regular expression
-theme_xhred_upload_successful=<span>$1 files</span> have been successfully uploaded to $2 directory
-theme_xhred_upload_successful_single=<span>$1 file</span> has been successfully uploaded to $2 directory
-settings_usermin_default_module=Default module
+theme_xhred_filemanager_search_file_mask=Máscara de archivo
+theme_xhred_filemanager_search_regex=Expresión regular
+theme_xhred_upload_successful=<span>$1 archivos</span> han sido subidos al directorio $2
+theme_xhred_upload_successful_single=<span>$1 archivo</span> han sido subido al directorio $2
+settings_usermin_default_module=Módulo predeterminado
 
 
 #19.34
