@@ -1118,5 +1118,5 @@ theme_xhred_filemanager_exclude_dirs_desc=Semicolon separated list of files or s
 
 
 #19.38
-theme_global_access_level=Access Level
-theme_global_user_mode=User Mode
+theme_global_access_level=Nivel de Acceso
+theme_global_user_mode=Modo de Usuario
