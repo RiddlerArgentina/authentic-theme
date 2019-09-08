@@ -1113,8 +1113,8 @@ theme_xhred_filemanager_editor_reverting_content=Dropping changes and reverting 
 
 
 #19.37
-theme_xhred_filemanager_exclude_dirs=Exclude entries
-theme_xhred_filemanager_exclude_dirs_desc=Semicolon separated list of files or subdirectories to exclude
+theme_xhred_filemanager_exclude_dirs=Excluir entradas
+theme_xhred_filemanager_exclude_dirs_desc=Lista de archivos y directorios separados por punto y coma (;) que serán excluidos
 
 
 #19.38
