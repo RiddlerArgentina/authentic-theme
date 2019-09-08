@@ -23,12 +23,8 @@ body_updays=$1 días, $2 horas, $3 minutos
 body_uphours=$1 horas, $2 minutos
 body_upmins=$1 minutos
 body_upneed=$1 actualizaciones de paquetes están disponibles
-body_upneed1=$1 package update is available
+body_upneed1=$1 actualizaciones de paquetes están disponibles.
 body_upok=Todos los paquetes instalados están actualizados
-body_upsec=$1 actualizaciones de paquetes están disponibles, de los cuales $2 son actualizaciones de seguridad
-body_upsec1=$1 package updates are available, of which $2 is security update
-body_upsec2=$1 package update is available, of which $2 are security updates
-body_upsec3=$1 package update is available, of which $2 is security update
 body_upsec=$1 actualizaciones de paquetes están disponibles, de las cuales $2 son actualizaciones de seguridad
 body_upsec1=$1 actualizaciones de paquetes están disponibles, de las cuales $2 es una actualizaciones de seguridad
 body_upsec2=$1 actualizaciones de paquetes están disponibles, de las cuales $2 son actualizaciones de seguridad
@@ -85,44 +81,35 @@ right_virtualmin=Versión Virtualmin
 right_vlcheck=Vuelva a verificar la licencia Virtualmin
 right_vm2=Versión Cloudmin
 
-theme_xhred_session_failed=Login failed. Please try again.
-session_logout=Logout exitoso. Utilice el formulario de abajo para iniciar sesión de nuevo.
+theme_xhred_session_failed=Inicio de sesión incorrecto, intente nuevamente.
+session_logout=Logout exitoso. Utilice el formulario de abajo para iniciar sesión nuevamente.
 session_timed_out=Su sesión ha expirado después $1 minutos de inactividad.
-session_twofailed=Autenticación de dos factores fallada: $1
+session_twofailed=Fallo en la autenticación de dos pasos: $1
 
+settings_right_options=Opciones
+settings_right_restore_defaults=Restaurar valores predeterminados
+settings_right_restored=Restaurado
+settings_right_restoring=Restaurando
+settings_right_saved=Guardado
+settings_right_saving=Guardando
 
+settings_right_theme_extensions=Extensiones de tema
+settings_right_theme_extensions_title=Extensiones de tema
+settings_right_file_edit=Editar el archivo de extensión:
+settings_right_extensions_title=Diseño avanzado de tema, le permite manipular fácilmente elementos específicaos de su interfaz.
 
+theme_xhred_settings_right_theme_logos=Logos del tema
+theme_xhred_settings_right_theme_logos_title=Logos del tema
+settings_right_logos_title=Aquí se configuran los logos del tema, para usuarios autenticados y no autenticados. El tamaño recomendado del logo es <kbd>180x90</kbd> píxeles y el único formato soportado es <kbd>.png</kbd>, para proveer transparencias.
+settings_right_logo_authenticated_users=Logo para usuarios autenticados
+settings_right_logo_unauthenticated_users=Logo para usuarios no autenticados
 
-
-
-
-
-
-
-settings_right_options=Options
-settings_right_restore_defaults=Restore defaults
-settings_right_restored=Restored
-settings_right_restoring=Restoring
-settings_right_saved=Saved
-settings_right_saving=Saving
-
-settings_right_theme_extensions=Theme extensions
-settings_right_theme_extensions_title=Theme Extensions
-settings_right_file_edit=Edit extension file:
-settings_right_extensions_title=Theme extensive design, enables you easily manipulate on targeted parts of the interface.
-
-theme_xhred_settings_right_theme_logos=Theme logos
-theme_xhred_settings_right_theme_logos_title=Theme Logos
-settings_right_logos_title=Theme logos can be easily set here, for both, authenticated and unauthenticated users. Recommended logo size is <kbd>180x90</kbd> pixels and the only supported format is <kbd>.png</kbd>, to provide alpha transparency.
-settings_right_logo_authenticated_users=Logo for authenticated users
-settings_right_logo_unauthenticated_users=Logo for unauthenticated users
-
-settings_right_current_theme=Current theme
-settings_right_title=This page allows you to configure options for <a href="https://github.com/authentic-theme/authentic-theme" target="_blank">Authentic Theme</a>. Settings will be stored upon theme update.
-settings_right_theme_left_configuration_title=Theme Configuration
-settings_right_theme_left_extensions_title=Theme Extensions Editor
-settings_right_theme_left_logo_title=Theme Logo Control
-settings_right_theme_configurable_options_title=Configurable options for Authentic Theme
+settings_right_current_theme=Tema actual
+settings_right_title=Esta página le permite configurar opciones para <a href="https://github.com/authentic-theme/authentic-theme" target="_blank">Authentic Theme</a>. Las configuraciones serán guardadas durante la actualización.
+settings_right_theme_left_configuration_title=Configuración del tema
+settings_right_theme_left_extensions_title=Editor de extensiones del tema
+settings_right_theme_left_logo_title=Control de Logos del tema
+settings_right_theme_configurable_options_title=Opciones configurables para Authentic Theme
 
 
 settings_right_window_options_title=Window options
